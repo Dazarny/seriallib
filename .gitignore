@@ -1,4 +1,8 @@
 # Prerequisites
+*.ipch
+*.db
+*.suo
+
 *.d
 
 # Object files
