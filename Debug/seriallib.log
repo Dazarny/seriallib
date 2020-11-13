@@ -1,5 +1,0 @@
-﻿  tserial.cpp
-C:\dev\facetracking\seriallib\tserial.cpp(34): warning C4603: STRICT: макрос не определен или определение изменилось после использования предкомпилированного заголовка
-C:\dev\facetracking\seriallib\tserial.cpp(34): message : Добавление макроопределения в предкомпилированный заголовок вместо определения его здесь
-C:\dev\facetracking\seriallib\tserial.cpp(42): message : использование предварительно скомпилированного заголовка
-  seriallib.vcxproj -> C:\dev\facetracking\seriallib\Debug\seriallib.lib

@@ -1,2 +1,0 @@
-C:\dev\facetracking\seriallib\Debug\seriallib.lib
-C:\dev\facetracking\seriallib\Debug\seriallib.pdb
